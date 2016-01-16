@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Forward Kinematics</string>
+    <string name="action_settings">Settings</string>
+    <string name="toggleGraph">toggle graph</string>
+    <string name="out">Debug Output</string>
+    <string name="output">back to the first view</string>
+</resources>

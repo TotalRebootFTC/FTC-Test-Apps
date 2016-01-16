@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Swerve Drive</string>
+    <string name="action_settings">Settings</string>
+    <string name="fwd">forward</string>
+    <string name="str">strafe</string>
+    <string name="rcw">rotate counter clockwise (radians per second)</string>
+    <string name="data">data</string>
+    <string name="update">calculate</string>
+    <string name="wheel1">wheel1</string>
+    <string name="wheel2">wheel2</string>
+    <string name="wheel3">wheel3</string>
+    <string name="wheel4">wheel4</string>
+    <string name="wheelbase">30</string>
+    <string name="trackwidth">24</string>
+    <string name="toggleGraph">toggle graph</string>
+    <string name="Chain">Chain Activity</string>
+    <string name="reset">Reset</string>
+    <string name="individual">Individual Wheels</string>
+</resources>
